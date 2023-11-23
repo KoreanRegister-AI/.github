@@ -1,6 +1,6 @@
 # 🚢 Korean Register AI 👋
 
-<img src="report16.png" width="100%">
+![](profile/report16.png)
 
 ## Speaking 📢
 
